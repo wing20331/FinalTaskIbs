@@ -1,0 +1,4 @@
+"{"seaddress":{"addressLine1":"789 Oak St","addressLine2":"","city":"Anothercity","country":"us"
+"","postalCode":"67890","TX":"state"},"secustomerName":"Alex Johnson","secustomerPhone":"567890"
+"1234","senumberOfProducts":1,"setransactionType":"SHIPPING_COST","sessionId":"7218A4A6AD5E5C1C"
+"C1114FD448CC07C7"}"

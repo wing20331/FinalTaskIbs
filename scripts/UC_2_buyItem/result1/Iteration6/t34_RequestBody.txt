@@ -1,0 +1,4 @@
+"{"seaddress":{"addressLine1":"987 Maple St","addressLine2":"","city":"Smalltown","country":"us"
+"","postalCode":"19283","OR":"state"},"secustomerName":"Emma Jones","secustomerPhone":"45678901"
+"23","senumberOfProducts":1,"setransactionType":"SHIPPING_COST","sessionId":"1B498B7F875BF899E3"
+"C020841E4041E1"}"

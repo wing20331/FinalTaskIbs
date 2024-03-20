@@ -1,0 +1,13 @@
+[t25]
+FileName1=t25.xml
+URL1=https://www.advantageonlineshopping.com/accountservice/ws/GetCountriesRequest
+Total=2
+RequestHeaderFile=t25_RequestHeader.txt
+RequestBodyFile=t25_RequestBody.txt
+ResponseHeaderFile=t25_ResponseHeader.txt
+ContentType=text/xml
+SnapshotXmlFile=snapshot_25.xml
+FileName2=t25_Check.png
+URL2=https://www.advantageonlineshopping.com/css/images/Check.png
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,4 @@
+"{\"seaddress\":{\"addressLine1\":\"adress\",\"addressLine2\":\"\",\"city\":\"msk\",\"country\""
+":\"re\",\"postalCode\":\"zipcode\",\"state\":\"state\"},\"secustomerName\":\"name surName\",\""
+"secustomerPhone\":\"89099091651\",\"senumberOfProducts\":2,\"setransactionType\":\"SHIPPING_CO"
+"ST\",\"sessionId\":\"F551DA335719ABC01261169E3D9DDAE2\"}"

@@ -1,0 +1,6 @@
+"<?xml version="1.0" encoding="UTF-8"?><soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/so"
+"ap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.o"
+"rg/2001/XMLSchema"><soap:Body><GetAccountPaymentPreferencesRequest xmlns="com.advantage.online"
+".store.accountservice"><accountId>582943225</accountId><base64Token>Basic TXlzdGljV2hpc3BlcmVy"
+"OlBhU3N3b3JkMTIz</base64Token></GetAccountPaymentPreferencesRequest></soap:Body></soap:Envelop"
+"e>"

@@ -1,0 +1,4 @@
+"{"seaddress":{"addressLine1":"123 Main St","addressLine2":"","city":"Anytown","country":"us",""
+"postalCode":"12345","CA":"state"},"secustomerName":"John Doe","secustomerPhone":"1234567890",""
+"senumberOfProducts":1,"setransactionType":"SHIPPING_COST","sessionId":"514BC0E47B188BA9C2B32C8"
+"C5A2110DB"}"

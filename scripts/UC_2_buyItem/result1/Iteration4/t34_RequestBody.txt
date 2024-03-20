@@ -1,0 +1,4 @@
+"{"seaddress":{"addressLine1":"321 Pine St","addressLine2":"","city":"Yourtown","country":"us","
+""postalCode":"13579","FL":"state"},"secustomerName":"Sarah Williams","secustomerPhone":"345678"
+"9012","senumberOfProducts":1,"setransactionType":"SHIPPING_COST","sessionId":"B6469180F4CFE30B"
+"B5DFB4EC6F651522"}"

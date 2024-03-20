@@ -1,0 +1,4 @@
+"{"seaddress":{"addressLine1":"147 Cherry St","addressLine2":"","city":"Sunnytown","country":"u"
+"s","postalCode":"84756","PA":"state"},"secustomerName":"Sophia Anderson","secustomerPhone":"89"
+"01234567","senumberOfProducts":1,"setransactionType":"SHIPPING_COST","sessionId":"4D6896BB664E"
+"D8AC6F5A01271F1D5388"}"

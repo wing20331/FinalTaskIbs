@@ -1,0 +1,7 @@
+"<?xml version="1.0" encoding="UTF-8"?><soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/so"
+"ap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.o"
+"rg/2001/XMLSchema"><soap:Body><AddMasterCreditMethodRequest xmlns="com.advantage.online.store."
+"accountservice"><cardNumber>4886987654321011</cardNumber><expirationDate>052044</expirationDat"
+"e><cvvNumber>369</cvvNumber><customerName>Charlotte Hill</customerName><accountId>302571935</a"
+"ccountId><base64Token>Basic Y2hhcmVfaGk6UGEkJHcwcmQyMA==</base64Token></AddMasterCreditMethodR"
+"equest></soap:Body></soap:Envelope>"

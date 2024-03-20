@@ -1,0 +1,135 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP65",
+                "stepName": "Url: www.advantageonlineshopping.com",
+                "infFile": "t1.inf",
+                "time": 1710946974403
+            },
+            {
+                "stepId": "STEP66",
+                "stepName": "Url: ALL",
+                "infFile": "t2.inf",
+                "time": 1710946974702
+            },
+            {
+                "stepId": "STEP67",
+                "stepName": "Custom Request: GetAccountConfigurationRequest",
+                "infFile": "t3.inf",
+                "time": 1710946975164
+            },
+            {
+                "stepId": "STEP68",
+                "stepName": "Url: categories",
+                "infFile": "t5.inf",
+                "time": 1710946975626
+            },
+            {
+                "stepId": "STEP69",
+                "stepName": "Url: search",
+                "infFile": "t6.inf",
+                "time": 1710946976034
+            },
+            {
+                "stepId": "STEP70",
+                "stepName": "Url: popularProducts.json",
+                "infFile": "t7.inf",
+                "time": 1710946976256
+            },
+            {
+                "stepId": "STEP71",
+                "stepName": "Url: home-page.html",
+                "infFile": "t8.inf",
+                "time": 1710946976726
+            },
+            {
+                "stepId": "STEP72",
+                "stepName": "Custom Request: AccountLoginRequest",
+                "infFile": "t11.inf",
+                "time": 1710946977650
+            },
+            {
+                "stepId": "STEP73",
+                "stepName": "Url: Cartmb",
+                "infFile": "t13.inf",
+                "time": 1710946978384
+            },
+            {
+                "stepId": "STEP74",
+                "stepName": "Custom Request: AddSafePayMethodRequest",
+                "infFile": "t14.inf",
+                "time": 1710946978844
+            },
+            {
+                "stepId": "STEP75",
+                "stepName": "Custom Request: PaymentMethodUpdateRequest",
+                "infFile": "t15.inf",
+                "time": 1710946979517
+            },
+            {
+                "stepId": "STEP76",
+                "stepName": "Custom Request: AddMasterCreditMethodRequest",
+                "infFile": "t16.inf",
+                "time": 1710946979969
+            },
+            {
+                "stepId": "STEP77",
+                "stepName": "Custom Request: PaymentMethodUpdateRequest_2",
+                "infFile": "t17.inf",
+                "time": 1710946980561
+            },
+            {
+                "stepId": "STEP78",
+                "stepName": "Custom Request: AccountLogoutRequest",
+                "infFile": "t18.inf",
+                "time": 1710946981802
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "Index",
+                "rawStartTime": 1710946966863,
+                "rawEndTime": 1710946976731,
+                "thinkTime": 0.0,
+                "wastedTime": 0.41635894775390627
+            },
+            {
+                "transactionName": "logIn",
+                "rawStartTime": 1710946976763,
+                "rawEndTime": 1710946978413,
+                "thinkTime": 0.0,
+                "wastedTime": 0.06569766998291016
+            },
+            {
+                "transactionName": "paymentUpdateSafe",
+                "rawStartTime": 1710946978446,
+                "rawEndTime": 1710946978856,
+                "thinkTime": 0.0,
+                "wastedTime": 0.02997136116027832
+            },
+            {
+                "transactionName": "paymentUpdateMaster",
+                "rawStartTime": 1710946978888,
+                "rawEndTime": 1710946980569,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0891408920288086
+            },
+            {
+                "transactionName": "logOut",
+                "rawStartTime": 1710946980601,
+                "rawEndTime": 1710946981806,
+                "thinkTime": 0.0,
+                "wastedTime": 0.026921510696411134
+            },
+            {
+                "transactionName": "UC_5_UpdatePayment",
+                "rawStartTime": 1710946966846,
+                "rawEndTime": 1710946981822,
+                "thinkTime": 0.0,
+                "wastedTime": 0.6280903816223145
+            }
+        ]
+    }
+]

@@ -1,0 +1,4 @@
+"{"seaddress":{"addressLine1":"852 Walnut St","addressLine2":"","city":"Grandcity","country":"u"
+"s","postalCode":"57689","MI":"state"},"secustomerName":"Olivia Miller","secustomerPhone":"6789"
+"012345","senumberOfProducts":1,"setransactionType":"SHIPPING_COST","sessionId":"9B7E059B3CAF85"
+"0258B85CC094655242"}"

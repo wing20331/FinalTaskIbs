@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\wing2\Documents\VuGen\Scripts\UC_4_RegNewUser
+-ID:\HPLoudRunner\include
+-ec:\users\wing2\documents\vugen\scripts\uc_4_regnewuser\\logfile.log
+c:\users\wing2\documents\vugen\scripts\uc_4_regnewuser\\combined_UC_4_RegNewUser.c
+c:\users\wing2\documents\vugen\scripts\uc_4_regnewuser\\pre_cci.c

@@ -1,0 +1,6 @@
+"<?xml version="1.0" encoding="UTF-8"?><soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/so"
+"ap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.o"
+"rg/2001/XMLSchema"><soap:Body><PaymentMethodUpdateRequest xmlns="com.advantage.online.store.ac"
+"countservice"><accountId>124245413</accountId><paymentMethod>10</paymentMethod><base64Token>Ba"
+"sic bWljaGxfam9objpQYXNzdzByZDM=</base64Token></PaymentMethodUpdateRequest></soap:Body></soap:"
+"Envelope>"

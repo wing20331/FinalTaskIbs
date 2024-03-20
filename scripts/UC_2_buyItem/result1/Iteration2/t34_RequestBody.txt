@@ -1,0 +1,4 @@
+"{"seaddress":{"addressLine1":"456 Elm St","addressLine2":"","city":"Sometown","country":"us",""
+"postalCode":"54321","NY":"state"},"secustomerName":"Emily Smith","secustomerPhone":"9876543210"
+"","senumberOfProducts":1,"setransactionType":"SHIPPING_COST","sessionId":"D7A71DB0CB9BE96CD777"
+"905009EFDD2F"}"

@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\wing2\Documents\VuGen\Scripts\UC_3_deleteMyOrder
+-ID:\HPLoudRunner\include
+-ec:\users\wing2\documents\vugen\scripts\uc_3_deletemyorder\\logfile.log
+c:\users\wing2\documents\vugen\scripts\uc_3_deletemyorder\\combined_UC_3_deleteMyOrder.c
+c:\users\wing2\documents\vugen\scripts\uc_3_deletemyorder\\pre_cci.c

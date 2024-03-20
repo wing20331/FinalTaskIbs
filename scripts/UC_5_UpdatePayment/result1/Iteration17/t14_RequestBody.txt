@@ -1,0 +1,6 @@
+"<?xml version="1.0" encoding="UTF-8"?><soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/so"
+"ap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.o"
+"rg/2001/XMLSchema"><soap:Body><AddSafePayMethodRequest xmlns="com.advantage.online.store.accou"
+"ntservice"><safePayUsername>Noah's Card</safePayUsername><accountId>514235513</accountId><safe"
+"PayPassword>P@$$w0rd17</safePayPassword><base64Token>Basic bm9haF9oYWxsOlBhJCR3MHJkMTc=</base6"
+"4Token></AddSafePayMethodRequest></soap:Body></soap:Envelope>"

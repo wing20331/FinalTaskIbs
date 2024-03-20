@@ -1,0 +1,7 @@
+"<?xml version="1.0" encoding="UTF-8"?><soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/so"
+"ap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.o"
+"rg/2001/XMLSchema"><soap:Body><AddMasterCreditMethodRequest xmlns="com.advantage.online.store."
+"accountservice"><cardNumber>4886123123123011</cardNumber><expirationDate>072030</expirationDat"
+"e><cvvNumber>258</cvvNumber><customerName>Jessica Jones</customerName><accountId>974936340</ac"
+"countId><base64Token>Basic amVzc2ljYV9qb25lOlBAJCR3MHJkNg==</base64Token></AddMasterCreditMeth"
+"odRequest></soap:Body></soap:Envelope>"

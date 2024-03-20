@@ -1,0 +1,4 @@
+"{"seaddress":{"addressLine1":"654 Cedar St","addressLine2":"","city":"Newcity","country":"us","
+""postalCode":"97531","WA":"state"},"secustomerName":"Michael Brown","secustomerPhone":"2345678"
+"901","senumberOfProducts":1,"setransactionType":"SHIPPING_COST","sessionId":"963D57395767FBB69"
+"D35E2B103DEE5E3"}"

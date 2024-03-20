@@ -1,0 +1,240 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP139",
+                "stepName": "Url: www.advantageonlineshopping.com",
+                "infFile": "t1.inf",
+                "time": 1710949483413
+            },
+            {
+                "stepId": "STEP140",
+                "stepName": "Url: ALL",
+                "infFile": "t2.inf",
+                "time": 1710949483664
+            },
+            {
+                "stepId": "STEP141",
+                "stepName": "Custom Request: GetAccountConfigurationRequest",
+                "infFile": "t3.inf",
+                "time": 1710949484063
+            },
+            {
+                "stepId": "STEP142",
+                "stepName": "Url: categories",
+                "infFile": "t5.inf",
+                "time": 1710949484524
+            },
+            {
+                "stepId": "STEP143",
+                "stepName": "Url: search",
+                "infFile": "t6.inf",
+                "time": 1710949484922
+            },
+            {
+                "stepId": "STEP144",
+                "stepName": "Url: popularProducts.json",
+                "infFile": "t7.inf",
+                "time": 1710949485137
+            },
+            {
+                "stepId": "STEP145",
+                "stepName": "Url: home-page.html",
+                "infFile": "t8.inf",
+                "time": 1710949485612
+            },
+            {
+                "stepId": "STEP146",
+                "stepName": "Custom Request: AccountLoginRequest",
+                "infFile": "t11.inf",
+                "time": 1710949486641
+            },
+            {
+                "stepId": "STEP147",
+                "stepName": "Url: Cartmb",
+                "infFile": "t13.inf",
+                "time": 1710949487905
+            },
+            {
+                "stepId": "STEP148",
+                "stepName": "Url: products",
+                "infFile": "t16.inf",
+                "time": 1710949488434
+            },
+            {
+                "stepId": "STEP149",
+                "stepName": "Url: attributes",
+                "infFile": "t17.inf",
+                "time": 1710949488864
+            },
+            {
+                "stepId": "STEP150",
+                "stepName": "Url: category-page.html",
+                "infFile": "t18.inf",
+                "time": 1710949489068
+            },
+            {
+                "stepId": "STEP151",
+                "stepName": "Url: 20",
+                "infFile": "t20.inf",
+                "time": 1710949489446
+            },
+            {
+                "stepId": "STEP152",
+                "stepName": "Url: 20",
+                "infFile": "t22.inf",
+                "time": 1710949489892
+            },
+            {
+                "stepId": "STEP153",
+                "stepName": "Url: products_2",
+                "infFile": "t23.inf",
+                "time": 1710949490361
+            },
+            {
+                "stepId": "STEP154",
+                "stepName": "Url: product-page.html",
+                "infFile": "t24.inf",
+                "time": 1710949490817
+            },
+            {
+                "stepId": "STEP155",
+                "stepName": "Submit Data: 414141",
+                "infFile": "t26.inf",
+                "time": 1710949492090
+            },
+            {
+                "stepId": "STEP156",
+                "stepName": "Custom Request: GetAccountByIdRequest",
+                "infFile": "t27.inf",
+                "time": 1710949492749
+            },
+            {
+                "stepId": "STEP157",
+                "stepName": "Custom Request: GetAccountByIdNewRequest",
+                "infFile": "t30.inf",
+                "time": 1710949493346
+            },
+            {
+                "stepId": "STEP158",
+                "stepName": "Url: 559529690_3",
+                "infFile": "t32.inf",
+                "time": 1710949494387
+            },
+            {
+                "stepId": "STEP159",
+                "stepName": "Custom Request: shippingcost",
+                "infFile": "t34.inf",
+                "time": 1710949494809
+            },
+            {
+                "stepId": "STEP160",
+                "stepName": "Custom Request: GetAccountPaymentPreferencesRequest",
+                "infFile": "t36.inf",
+                "time": 1710949495539
+            },
+            {
+                "stepId": "STEP161",
+                "stepName": "Url: orderPayment-page.html",
+                "infFile": "t37.inf",
+                "time": 1710949495761
+            },
+            {
+                "stepId": "STEP162",
+                "stepName": "Custom Request: GetCountriesRequest",
+                "infFile": "t38.inf",
+                "time": 1710949496131
+            },
+            {
+                "stepId": "STEP163",
+                "stepName": "Custom Request: UpdateSafePayMethodRequest",
+                "infFile": "t39.inf",
+                "time": 1710949496523
+            },
+            {
+                "stepId": "STEP164",
+                "stepName": "Custom Request: Oplata",
+                "infFile": "t40.inf",
+                "time": 1710949498111
+            },
+            {
+                "stepId": "STEP165",
+                "stepName": "Custom Request: 559529690_5",
+                "infFile": "t41.inf",
+                "time": 1710949499107
+            },
+            {
+                "stepId": "STEP166",
+                "stepName": "Custom Request: AccountLogoutRequest",
+                "infFile": "t42.inf",
+                "time": 1710949500563
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "Index",
+                "rawStartTime": 1710949475831,
+                "rawEndTime": 1710949485628,
+                "thinkTime": 0.0,
+                "wastedTime": 0.363492488861084
+            },
+            {
+                "transactionName": "logIn",
+                "rawStartTime": 1710949485661,
+                "rawEndTime": 1710949487931,
+                "thinkTime": 0.0,
+                "wastedTime": 0.06531929969787598
+            },
+            {
+                "transactionName": "chooseProduct",
+                "rawStartTime": 1710949487963,
+                "rawEndTime": 1710949490820,
+                "thinkTime": 0.0,
+                "wastedTime": 0.19124102592468263
+            },
+            {
+                "transactionName": "addToCart",
+                "rawStartTime": 1710949490851,
+                "rawEndTime": 1710949492100,
+                "thinkTime": 0.0,
+                "wastedTime": 0.028409242630004884
+            },
+            {
+                "transactionName": "cheakout",
+                "rawStartTime": 1710949492132,
+                "rawEndTime": 1710949494846,
+                "thinkTime": 0.0,
+                "wastedTime": 0.1158604621887207
+            },
+            {
+                "transactionName": "GetAccountPaymentPreferencesRequest",
+                "rawStartTime": 1710949494878,
+                "rawEndTime": 1710949496133,
+                "thinkTime": 0.0,
+                "wastedTime": 0.08857226371765137
+            },
+            {
+                "transactionName": "payment",
+                "rawStartTime": 1710949496165,
+                "rawEndTime": 1710949499112,
+                "thinkTime": 0.0,
+                "wastedTime": 0.07696080207824707
+            },
+            {
+                "transactionName": "LogOut",
+                "rawStartTime": 1710949499144,
+                "rawEndTime": 1710949500572,
+                "thinkTime": 0.0,
+                "wastedTime": 0.028077363967895509
+            },
+            {
+                "transactionName": "UC_2_buyItem",
+                "rawStartTime": 1710949475816,
+                "rawEndTime": 1710949500588,
+                "thinkTime": 0.0,
+                "wastedTime": 0.9579329490661621
+            }
+        ]
+    }
+]

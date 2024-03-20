@@ -1,0 +1,4 @@
+"{"seaddress":{"addressLine1":"741 Birch St","addressLine2":"","city":"Largetown","country":"us"
+"","postalCode":"38475","IL":"state"},"secustomerName":"William Davis","secustomerPhone":"56789"
+"01234","senumberOfProducts":1,"setransactionType":"SHIPPING_COST","sessionId":"2A3BAD6A75530AB"
+"A82677A72260119CE"}"

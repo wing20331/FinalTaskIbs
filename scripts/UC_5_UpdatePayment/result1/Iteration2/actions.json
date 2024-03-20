@@ -1,0 +1,78 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP15",
+                "stepName": "Url: www.advantageonlineshopping.com",
+                "infFile": "t1.inf",
+                "time": 1710946918231
+            },
+            {
+                "stepId": "STEP16",
+                "stepName": "Url: ALL",
+                "infFile": "t2.inf",
+                "time": 1710946918497
+            },
+            {
+                "stepId": "STEP17",
+                "stepName": "Custom Request: GetAccountConfigurationRequest",
+                "infFile": "t3.inf",
+                "time": 1710946918923
+            },
+            {
+                "stepId": "STEP18",
+                "stepName": "Url: categories",
+                "infFile": "t5.inf",
+                "time": 1710946919499
+            },
+            {
+                "stepId": "STEP19",
+                "stepName": "Url: search",
+                "infFile": "t6.inf",
+                "time": 1710946919919
+            },
+            {
+                "stepId": "STEP20",
+                "stepName": "Url: popularProducts.json",
+                "infFile": "t7.inf",
+                "time": 1710946920131
+            },
+            {
+                "stepId": "STEP21",
+                "stepName": "Url: home-page.html",
+                "infFile": "t8.inf",
+                "time": 1710946920566
+            },
+            {
+                "stepId": "STEP22",
+                "stepName": "Custom Request: AccountLoginRequest",
+                "infFile": "t11.inf",
+                "time": 1710946921081
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "Index",
+                "rawStartTime": 1710946910488,
+                "rawEndTime": 1710946920581,
+                "thinkTime": 0.0,
+                "wastedTime": 0.2701115608215332
+            },
+            {
+                "transactionName": "logIn",
+                "rawStartTime": 1710946920613,
+                "rawEndTime": 1710946921084,
+                "thinkTime": 0.0,
+                "wastedTime": 0.019881486892700197
+            },
+            {
+                "transactionName": "UC_5_UpdatePayment",
+                "rawStartTime": 1710946910472,
+                "rawEndTime": 1710946921084,
+                "thinkTime": 0.0,
+                "wastedTime": 0.2899930477142334
+            }
+        ]
+    }
+]

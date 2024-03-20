@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\wing2\Documents\VuGen\Scripts\UC_2_buyItem
+-ID:\HPLoudRunner\include
+-ec:\users\wing2\documents\vugen\scripts\uc_2_buyitem\\logfile.log
+c:\users\wing2\documents\vugen\scripts\uc_2_buyitem\\combined_UC_2_buyItem.c
+c:\users\wing2\documents\vugen\scripts\uc_2_buyitem\\pre_cci.c

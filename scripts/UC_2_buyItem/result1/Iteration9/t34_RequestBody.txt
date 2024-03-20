@@ -1,0 +1,4 @@
+"{"seaddress":{"addressLine1":"963 Pineapple St","addressLine2":"","city":"Cozytown","country":"
+""us","postalCode":"29384","OH":"state"},"secustomerName":"James Wilson","secustomerPhone":"789"
+"0123456","senumberOfProducts":1,"setransactionType":"SHIPPING_COST","sessionId":"710096648F5D2"
+"2F001CFFA7F7E13035E"}"
